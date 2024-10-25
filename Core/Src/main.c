@@ -30,7 +30,7 @@ char Rx_flag = '0';
 
 
 char tabela[10][5] = {
-		"Wagner,09887",
+		"Wagner1,09887",
 		"Vallentina,09888",
 		"Izabella,09999",
 		"Benicio,09999",
